@@ -8,6 +8,8 @@ let hamburger = document.querySelector(".hamburger")
     })
 
 
+
+    
 // Sidebar menu
 
 let menu = document.querySelectorAll(".menu")

@@ -138,6 +138,9 @@ ul.links>li>a {
     color: black;
     position: relative;
 }
+ul.links>li>a>i {
+    font-size: x-small;
+}
 ul.links>li>a:hover {
     color: blueviolet;
 }
@@ -1053,7 +1056,7 @@ div.header-list {
 ul.link {
     display: flex;
     justify-content: space-between;
-    width: 35%;
+    width: 45%;
     list-style: none;
     align-content: flex-start;
 }
